@@ -9,3 +9,5 @@ __pycache__/
 
 trained_models/
 logs/
+
+stacking_prepare/
